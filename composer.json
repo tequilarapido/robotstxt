@@ -13,13 +13,13 @@
 
     "autoload": {
         "psr-4": {
-            "Robots\\": "src"
+            "Tequilarapido\\RobotsTxt\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Robots\\RobotsTxtProvider"
+                "Tequilarapido\\RobotsTxt\\RobotsTxtProvider"
             ]
         }
     },

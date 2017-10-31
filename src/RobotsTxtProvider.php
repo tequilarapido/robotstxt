@@ -1,6 +1,6 @@
 <?php
 
-namespace Robots;
+namespace Tequilarapido\RobotsTxt;
 
 use Illuminate\Support\ServiceProvider;
 
