@@ -26,7 +26,7 @@ $ composer require tequilarapido/robotstxt
 
 Finally, you need to publish config file
 ``` bash
-$ php artisan vendor:publish
+$ php artisan vendor:publish --provider="Tequilarapido\RobotsTxt\RobotsTxtProvider" --tag=config
 ```
 
 ## Usage
